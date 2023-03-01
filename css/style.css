@@ -1,0 +1,18 @@
+body{
+    background-image: url('imagenes/cebra.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    color: #FFFFFF;
+}
+
+nav {
+    background-image: url('imagenes/cebra.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    color: #FFFFFF;
+    height: 3.5em;
+}
